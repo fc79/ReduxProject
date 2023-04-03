@@ -1,0 +1,21 @@
+.image{
+    width:200px;
+    height: 200px;
+}
+.exclusivecard{
+    
+    margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+
+}
+.text{
+    font-family: 'Yekan';
+    font-size: 25px;
+}
+.detail{
+    font-family: 'Yekan';
+    font-size: 20px;
+    margin-left: 370px;
+    padding-bottom: 70px;
+}
